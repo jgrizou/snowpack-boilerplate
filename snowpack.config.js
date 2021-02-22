@@ -1,7 +1,7 @@
 module.exports = {
   
   mount: {
-    src: '/',
+    src: '/'
   },
  
   buildOptions: {
