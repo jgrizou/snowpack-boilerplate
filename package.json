@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "canvas-confetti": "^1.3.3"
+    "canvas-confetti": "^1.3.3",
+    "snowpack-plugin-baseurl-handler": "0.0.3"
   },
   "devDependencies": {
     "snowpack": "^3.0.11"
